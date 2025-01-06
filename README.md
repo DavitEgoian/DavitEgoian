@@ -1,5 +1,5 @@
-### 👋 Hi, my name is David!
-I'm full-stack developer and student. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
+### 👋 Hi, my name is Davit!
+I'm full-stack developer and a student. All of the coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
 <div align="center">
   <a href="https://github.com/DavidEgoyan">
@@ -8,7 +8,6 @@ I'm full-stack developer and student. All coding projects are built from the gro
 
 </div>
  <br>
-<p><a href="https://www.buymeacoffee.com/davidegoyan" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="David" /></a></p><br><br>
   
 ### 🧰 Languages and Tools
  
