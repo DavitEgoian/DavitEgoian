@@ -3,8 +3,8 @@ I'm full-stack developer and student. All coding projects are built from the gro
 
 <div align="center">
   <a href="https://github.com/DavidEgoyan">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DavidEgoyan&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DavidEgoyan&theme=dark&layout=compact&hide=html"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DavitEgoian&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DavitEgoian&theme=dark&layout=compact&hide=html"/>
 
 </div>
  <br>
@@ -29,6 +29,5 @@ I'm full-stack developer and student. All coding projects are built from the gro
   ##
  
 <div>
-    <a href="https://www.linkedin.com/in/david-egoyan-2322071a8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/dav66d" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/davitegoian/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:dato.egoyan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
