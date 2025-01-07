@@ -27,3 +27,10 @@
 ### 🌐 Connect with Me
 
 <a href="https://www.linkedin.com/in/davitegoian/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davitegoian/davitegoian/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davitegoian/davitegoian/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/davitegoian/davitegoian/output/github-snake.svg" />
+</picture>
