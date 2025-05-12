@@ -1,6 +1,6 @@
 ### 👋 Hi, my name is Davit!
 
-👨‍💻 I’m currently working on building Machine Learning models and hands-on Data Science projects
+👨‍💻 I’m currently working on building Machine Learning models and hands-on Data Science projects                 
 🌱 I'm currently studying Data Science and Artificial Intelligence at Georgian National University  
 👀 I’m looking to collaborate on exciting AI startups
 
