@@ -62,6 +62,8 @@
 ### 🌐 Connect with Me
 
 <a href="https://www.linkedin.com/in/davitegoian/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://davitegoian.tech/" target="_blank"><img src="https://img.shields.io/badge/Website-4d96FF?style=for-the-badge&logo=globe&logoColor=white" alt="My Website"/></a>
+<a href="https://www.kaggle.com/davitegoian" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davitegoian/davitegoian/output/github-snake-dark.svg" />
