@@ -5,7 +5,7 @@
 👀 I’m looking to collaborate on exciting AI startups
 
 <div align="center">
-  <a href="https://github.com/DavitEgoyan">
+  <a href="https://github.com/DavitEgoian">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DavitEgoian&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
     <br>
     <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavitEgoian&theme=dark&layout=donut&count_private=true"/>
