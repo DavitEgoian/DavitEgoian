@@ -1,7 +1,8 @@
 ### 👋 Hi, my name is Davit!
 
-👨‍💻 I’m currently working on building Machine Learning models and hands-on Data Science projects                 
-🌱 I'm currently studying Data Science and Artificial Intelligence at Georgian National University SEU
+🩵 I’m currently working as a Test Automation Trainee @ TBC
+🌱 I'm currently studying Data Science and Artificial Intelligence @ Georgian National University SEU
+🏆 Proud Bank of Georgia Scholar
 👀 I’m looking to collaborate on exciting AI startups
 
 <div align="center">
