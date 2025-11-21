@@ -73,6 +73,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/davitegoian/davitegoian/output/github-snake.svg" />
 </picture> -->
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/davitegoian/davitegoian/blob/output/github-snake-dark.svg)
 
 
