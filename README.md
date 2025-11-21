@@ -67,9 +67,12 @@
 <a href="https://www.linkedin.com/in/davitegoian/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.kaggle.com/davitegoian" target="_blank"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DavitEgoian/DavitEgoian/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/DavitEgoian/DavitEgoian/blob/output/github-snake.svg" />
-  <!-- <img alt="github-snake" src="https://raw.githubusercontent.com/davitegoian/davitegoian/output/github-snake.svg" /> -->
-</picture>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/davitegoian/davitegoian/output/github-snake.svg" />
+</picture> -->
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+
 
