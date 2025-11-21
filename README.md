@@ -54,9 +54,6 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-
-
-
 </div>
 
 ---
@@ -66,16 +63,6 @@
 <a href="https://davitegoian.tech/" target="_blank"><img src="https://img.shields.io/badge/Website-4d96FF?style=for-the-badge&logo=globe&logoColor=white" alt="My Website"/></a>
 <a href="https://www.linkedin.com/in/davitegoian/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.kaggle.com/davitegoian" target="_blank"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DavitEgoian/DavitEgoian/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DavitEgoian/DavitEgoian/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/davitegoian/davitegoian/output/github-snake.svg" />
-  ![snake gif](https://github.com/davitegoian/davitegoian/blob/output/github-snake-dark.svg)
-
-</picture> -->
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DavitEgoian/DavitEgoian/blob/output/github-snake-dark.svg?raw=true" />
