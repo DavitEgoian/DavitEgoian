@@ -9,8 +9,8 @@
 <br>
 <div align="center" >
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DavitEgoian&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=DavitEgoian&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-phi-seven-91.vercel.app/api?username=DavitEgoian&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-phi-seven-91.vercel.app/api?username=DavitEgoian&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DavitEgoian&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="DavitEgoian's GitHub Stats" />
   </picture>
 
