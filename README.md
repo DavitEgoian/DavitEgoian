@@ -19,7 +19,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-phi-seven-91.vercel.app/api/top-langs/?username=DavitEgoian&theme=dark&layout=donut&count_private=true&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-phi-seven-91.vercel.app/api/top-langs/?username=DavitEgoian&theme=default&layout=donut&count_private=true&hide_border=true" />
-    <img height="195em" src="https://github-readme-stats-phi-seven-91.vercel.app/api/top-langs/?username=DavitEgoian&theme=dark&layout=donut&count_private=true&hide_border=true" alt="DavitEgoian's Top Languages" />
+    <img height="195em" src="https://github-readme-stats-phi-seven-91.vercel.app/api/top-langs/?username=DavitEgoian&theme=dark&layout=donut&count_private=true&hide_border=true&hide=html,css" alt="DavitEgoian's Top Languages" />
   </picture>
 </div>
 
