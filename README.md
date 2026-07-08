@@ -1,9 +1,9 @@
 ## 👋 Hi, my name is Davit!
 
-🌱 I'm currently studying Data Science and Artificial Intelligence at [Georgian National University SEU](https://www.seu.edu.ge/en/)\
+👥 Associate Member @ [Georgian AI Association](https://www.aiassociation.ge/en)\
+🧑‍🎓 Data Science and Artificial Intelligence Student @ [Georgian National University](https://www.seu.edu.ge/en/)\
 🏆 Proud [Bank of Georgia](https://bankofgeorgia.ge/en/retail/main) Scholar\
-🩵 I worked as a Test Automation Trainee at [TBC](https://tbcbank.ge/en)\
-👀 I’m looking to collaborate on exciting AI startups
+🩵 Ex Test Automation and IT Business Analyst Intern @ [TBC](https://tbcbank.ge/en)\
 
 
 <br>
